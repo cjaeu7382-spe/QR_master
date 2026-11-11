@@ -67,3 +67,4 @@ git push -u origin main
 - **Target SDK**: 34 (Android 14) / **Min SDK**: 24 (Android 7.0+)
 - **Build System**: Gradle 8.5, Android Gradle Plugin 8.3.2
 - **CI/CD**: GitHub Actions (Ubuntu Latest runner)
+
